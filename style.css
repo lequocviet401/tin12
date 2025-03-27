@@ -1,20 +1,19 @@
 html {
   height: 100%;
   width: 100%;
-body {
-  height:700px;
-  
 }
-h1 {
-  color: black;
-  text-align: center;
+h2 {
+  color: white;
+  background-color: orange;
   padding: 10px;
 }
-iframe {
-  height: 100%;
-  width: 100%;
+table {
+  background-color: tomato;
+  color: white;
 }
-
+b {
+  background-color: yellow;
+}
 
 .main{
   padding: 20px;
