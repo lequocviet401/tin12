@@ -12,6 +12,8 @@ iframe {
 .main{
   display:inline-block ;
   height: 600px;
+  width: 100%;
+  
 }
 
 
@@ -76,6 +78,7 @@ button {
 }
 
 .menubar {
+  width: 100%;
   display:flex;
   justify-content: left; 
   background-color: #FFFF00;
