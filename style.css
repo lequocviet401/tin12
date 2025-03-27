@@ -85,19 +85,19 @@ button {
 .menubar {
   display: inline-block; 
   justify-content: center; 
-  background-color: grey;
+  background-color: purple;
   border-radius: 20px;
   padding: 10px
 
 }
 
 .chu {
-  background-color: #000000; 
+  background-color: blue; 
   padding: 5px 10px; 
   margin-right: 5px; 
   border: 1px solid #ccc;
   text-decoration: none; 
-  color: #ffffff; 
+  color: red; 
   border-radius: 10px;
 }
 
