@@ -76,7 +76,7 @@ button {
 }
 
 .menubar {
-  display: inline-block; 
+
   justify-content: left; 
   background-color: yellow;
   padding: 10px
