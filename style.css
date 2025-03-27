@@ -2,45 +2,36 @@ html {
   height: 100%;
   width: 100%;
 }
-table {
-  height: 700px;
- 
-}
-
-  tr, td {
-    padding: 15px; 
-    text-align: center;
-  ; 
-   
-}
 
 iframe {
   border: none;
   height: 100%;
   width: 100%;
-  fron
+  
+}
+.main{
+  display:inline-block ;
+  height: 70%
+}
 
-}
-.left-column {
-  width: 30%;
+
+.content {
+  width: 100%;
   height: 100%;
-  
-}
-  
-.right-column {
-  width: 70%;
-  height: 100%
+  justify-content: center ;
+  display: inline-block
+ 
 }
 
 header {
-  background-color: red;
+
   color: black;
   text-align: center;
   padding: 10px;
 }
 
 footer {
-  background-color: red;
+  background-color: grey;
   color: black;
   text-align: center;
   padding: 5px;
@@ -48,10 +39,76 @@ footer {
   width: 100%;
   bottom: 0;
 }
-body {
-  height: 100%
-}
+
 center {
-  height: 100%
+  height: 100%  
+}
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  height: 100%;
+  background-color: blossom;
 }
 
+form {
+  width: 500px;
+  margin: 0 auto;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+
+textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #d2042d;
+  box-sizing: border-box;
+}
+
+textarea {
+  height: 150px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: #000000;
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.menubar {
+  display: inline-block; 
+  justify-content: center; 
+  background-color: grey;
+  border-radius: 20px;
+  padding: 10px
+
+}
+
+.chu {
+  background-color: #000000; 
+  padding: 5px 10px; 
+  margin-right: 5px; 
+  border: 1px solid #ccc;
+  text-decoration: none; 
+  color: #ffffff; 
+  border-radius: 10px;
+}
+
+.chu:hover {
+  background-color: #918d8d;
+}
+  
+
+
+.signin {
+  position: absolute;
+  width: ;
+  height: 962px;
+}
