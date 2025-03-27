@@ -30,15 +30,7 @@ header {
   padding: 10px;
 }
 
-footer {
-  background-color: grey;
-  color: black;
-  text-align: center;
-  padding: 5px;
-  position: fixed;
-  width: 100%;
-  bottom: 0;
-}
+
 
 center {
   height: 100%  
@@ -84,9 +76,8 @@ button {
 
 .menubar {
   display: inline-block; 
-  justify-content: center; 
+  justify-content: left; 
   background-color: purple;
-  border-radius: 20px;
   padding: 10px
 
 }
@@ -98,7 +89,7 @@ button {
   border: 1px solid #ccc;
   text-decoration: none; 
   color: red; 
-  border-radius: 10px;
+
 }
 
 .chu:hover {
@@ -107,8 +98,3 @@ button {
   
 
 
-.signin {
-  position: absolute;
-  width: ;
-  height: 962px;
-}
