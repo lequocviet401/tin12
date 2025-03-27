@@ -29,7 +29,7 @@ iframe {
 }
 .menu a {
   padding: 5px;
-  border-color:green ; 
+  border:green ; 
   color:white; 
 }
 .menu a:hover {
