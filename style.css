@@ -1,6 +1,9 @@
 html {
   height: 100%;
   width: 100%;
+body {
+  height:700px;
+  
 }
 h1 {
   color: black;
